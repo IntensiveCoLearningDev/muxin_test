@@ -3,15 +3,12 @@
 ## 介绍
 
 介绍内容
-
 ## 关键词
 
 关键词内容
-
 ## 面向人群
 
 面向人群内容
-
 ## 报名时间
 
 - 报名开始时间：2026-01-01
@@ -28,27 +25,32 @@
 - Email：muxin333333@gmail.com
 ## 发起组织
 
-残酷共学发起组织方，可以是多个
+
+
 
 ## 请假规则
 
 每周请假 2 次
 
+
 ## 社群
 
-Telegram：
-
+微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test/main/assets/muxin-web3/images/2026-01-09-1767928629952-IMG_6376.JPG)
+微信联系人：_muxin_00
 ## 学习资料/课程安排
 
 学习内容
+
 
 ## 共学激励
 
 学到知识就是最大的福利！
 
+
 ## 更多信息
 
 更多信息内容
+
 
 ## 报名和打卡规则
 
