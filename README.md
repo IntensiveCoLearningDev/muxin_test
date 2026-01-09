@@ -28,11 +28,6 @@
 
 
 
-## 更多信息
-
-更多信息内容---
-
-
 ## 报名和打卡规则
 
 - 报名：https://www.notion.so/lxdao/232dceffe40b8030993ad26f2eb6bed2
@@ -189,4 +184,12 @@
 
 每周请假 2 次
 
+
+
+
+## 社群
+
+Telegram：https://t.me/c/LXDAO/6215
+微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test/main/assets/muxin-web3/images/2026-01-09-1767930773969-WX20251223-175550_2x.png)
+微信联系人：_muxin_00000
 
