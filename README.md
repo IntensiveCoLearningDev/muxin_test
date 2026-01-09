@@ -28,14 +28,9 @@
 
 
 
-## 请假规则
-
-每周请假 2 次
-
-
 ## 社群
 
-微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test/main/assets/muxin-web3/images/2026-01-09-1767928629952-IMG_6376.JPG)
+微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test/main/assets/muxin-web3/images/2026-01-09-1767928834869-IMG_6376.JPG)
 微信联系人：_muxin_00
 ## 学习资料/课程安排
 
@@ -197,3 +192,9 @@
 - 淘汰人数: 0
 - 淘汰率: 0.00%
 <!-- STATISTICALDATA_END -->
+
+
+## 请假规则
+
+每周请假 2 次
+
