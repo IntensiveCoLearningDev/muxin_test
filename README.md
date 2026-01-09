@@ -176,15 +176,3 @@
 <!-- STATISTICALDATA_END -->
 
 
-## 请假规则
-
-每周请假 2 次
-
-
-## 社群
-
-Telegram：https://t.me/c/LXDAO/621577
-
-微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test/main/assets/muxin-web3/images/2026-01-09-1767930773969-WX20251223-175550_2x.png)
-
-微信联系人：_muxin_00000
